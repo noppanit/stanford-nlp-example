@@ -1,6 +1,5 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.iml
+.idea/*
+target/*
+.DS_Store
+src/main/resources/*
